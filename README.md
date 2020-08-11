@@ -15,7 +15,7 @@ Aradhya Mathur
 ## Motivation and Logistics
 
 We want to create a free flow of ideas from other fields to ML and vice-versa. Given that ML is a highly interdisciplinary field, it will really help us all to learn about good ideas from other fields or to apply techniques to other fields. 
-We are always looking to expand and include. Although our primary focus is graduate students, we welcome all willing to develop a research expertise towards some topics and willing to present about good ideas/papers occasionally. To know more, follow this [issue][https://github.com/mohitsharma29/ML-Reading-Group/issues/1].
+We are always looking to expand and include. Although our primary focus is graduate students, we welcome all willing to develop a research expertise towards some topics and willing to present about good ideas/papers occasionally. To know more, follow this [issue](https://github.com/mohitsharma29/ML-Reading-Group/issues/1).
 
 Some guidelines which we think is helpful, feel free to suggest more, or modify:
 - We meet every week for around one hour.
@@ -27,3 +27,7 @@ better understanding.
 - The talks will be recorded for reference.
 
 ## Talks
+
+| Date  | Topic | Presenter  | Recording | Slides and Reading Material |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 7th August 2020 | Gaussian Processes | Venktesh | | |
