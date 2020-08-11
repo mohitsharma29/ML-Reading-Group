@@ -4,13 +4,13 @@ Collection of talks given in the internal ML reading group@IIITD
 
 ## Members
 
-Mohit Sharma
-Venktesh V
-Tharrmashastha S A P V
-Karmanya Aggarwal
-Hitkul
-Koushik Biswas
-Aradhya Mathur
+- Mohit Sharma
+- Venktesh V
+- Tharrmashastha S A P V
+- Karmanya Aggarwal
+- Hitkul
+- Koushik Biswas
+- Aradhya Mathur
 
 ## Motivation and Logistics
 
