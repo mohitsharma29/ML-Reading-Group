@@ -28,6 +28,6 @@ better understanding.
 
 ## Talks
 
-| Date  | Topic | Presenter  | Recording | Slides and Reading Material |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 7th August 2020 | Gaussian Processes | Venktesh | | |
+| Date  | Topic | Presenter  |
+| ------------- | ------------- | ------------- |
+| 7th August 2020 | Gaussian Processes | Venktesh |
