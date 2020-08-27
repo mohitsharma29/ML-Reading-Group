@@ -30,4 +30,5 @@ better understanding.
 
 | Date  | Topic | Presenter  |
 | ------------- | ------------- | ------------- |
-| 7th August 2020 | Gaussian Processes | Venktesh |
+| 21st August 2020 | [Quantum ML](https://github.com/mohitsharma29/ML-Reading-Group/issues/2) | Tharrmashastha S A P V |
+| 7th August 2020 | [Gaussian Processes](https://github.com/mohitsharma29/ML-Reading-Group/issues/3) | Venktesh |
