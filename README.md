@@ -1,17 +1,6 @@
 # ML-Reading-Group
 Collection of talks given at the ML reading group@IIITD
 
-
-## Members
-
-- Mohit Sharma
-- Venktesh V
-- Tharrmashastha S A P V
-- Karmanya Aggarwal
-- Hitkul
-- Koushik Biswas
-- Aradhya Mathur
-
 ## Motivation and Logistics
 
 We want to create a free flow of ideas from other fields to ML and vice-versa. Given that ML is a highly interdisciplinary field, it will really help us all to learn about good ideas from other fields or to apply techniques to other fields. 
@@ -25,6 +14,9 @@ Some guidelines which we think is helpful, feel free to suggest more, or modify:
 - Please let everyone know the topic/paper link you are going to present at least 2-3 days before your slot so that we look at the paper/background material for
 better understanding.
 - The talks will be recorded for reference.
+
+
+## To propose a talk, please create a new issue. 
 
 ## Talks
 
