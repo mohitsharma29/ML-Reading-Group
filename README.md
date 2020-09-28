@@ -22,6 +22,8 @@ better understanding.
 
 | Date  | Topic | Presenter  |
 | ------------- | ------------- | ------------- |
+| 4th October 2020 | [Active Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/8) | Charul |
+| 20th September 2020 | [Normalizing Flows](https://github.com/mohitsharma29/ML-Reading-Group/issues/6) | Nilay |
 | 5th September 2020 | [DL Pipelines for Vision](https://github.com/mohitsharma29/ML-Reading-Group/issues/4) | Aradhya |
 | 21st August 2020 | [Quantum ML](https://github.com/mohitsharma29/ML-Reading-Group/issues/2) | Tharrmashastha S A P V |
 | 7th August 2020 | [Gaussian Processes](https://github.com/mohitsharma29/ML-Reading-Group/issues/3) | Venktesh |
