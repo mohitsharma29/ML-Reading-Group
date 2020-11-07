@@ -22,7 +22,7 @@ better understanding.
 
 | Date  | Topic | Presenter  |
 | ------------- | ------------- | ------------- |
-| !st November 2020 | [Geometric Deep Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/7) | Nikita |
+| 1st November 2020 | [Geometric Deep Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/7) | Nikita |
 | 4th October 2020 | [Active Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/8) | Charul |
 | 20th September 2020 | [Normalizing Flows](https://github.com/mohitsharma29/ML-Reading-Group/issues/6) | Nilay |
 | 5th September 2020 | [DL Pipelines for Vision](https://github.com/mohitsharma29/ML-Reading-Group/issues/4) | Aradhya |
