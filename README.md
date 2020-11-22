@@ -22,6 +22,7 @@ better understanding.
 
 | Date  | Topic | Presenter  |
 | ------------- | ------------- | ------------- |
+| 22nd November 2020 | [Bayesian Deep Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/9) | Mohit |
 | 1st November 2020 | [Geometric Deep Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/7) | Nikita |
 | 4th October 2020 | [Active Learning](https://github.com/mohitsharma29/ML-Reading-Group/issues/8) | Charul |
 | 20th September 2020 | [Normalizing Flows](https://github.com/mohitsharma29/ML-Reading-Group/issues/6) | Nilay |
