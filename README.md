@@ -1,5 +1,5 @@
 # ML-Reading-Group
-Collection of talks given at the ML reading group@IIITD
+Collection of talks given at the ML reading group@IIITD (Inactive)
 
 ## Motivation and Logistics
 
